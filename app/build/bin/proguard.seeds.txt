@@ -1,0 +1,11 @@
+com.alienkrishn.moddilog.MainActivity
+com.alienkrishn.moddilog.MainActivity: MainActivity()
+com.alienkrishn.moddilog.R$drawable: int ic_launcher_background
+com.alienkrishn.moddilog.R$drawable: int ic_launcher_foreground
+com.alienkrishn.moddilog.R$drawable: int ic_launcher_foreground_1
+com.alienkrishn.moddilog.R$layout: int main
+com.alienkrishn.moddilog.R$mipmap: int ic_launcher
+com.alienkrishn.moddilog.R$mipmap: int ic_launcher_round
+com.alienkrishn.moddilog.R$string: int app_name
+com.alienkrishn.moddilog.R$string: int hello_world
+com.alienkrishn.moddilog.R$style: int AppTheme

@@ -1,0 +1,12 @@
+com.alienkrishn.moddilog.BuildConfig
+com.alienkrishn.moddilog.R
+com.alienkrishn.moddilog.R$attr
+com.alienkrishn.moddilog.R$drawable
+com.alienkrishn.moddilog.R$layout
+com.alienkrishn.moddilog.R$mipmap
+com.alienkrishn.moddilog.R$string
+com.alienkrishn.moddilog.R$style
+com.alienkrishn.moddilog.TestDialog:
+    104:104:public TestDialog()
+javalangEnum
+javalangIterable

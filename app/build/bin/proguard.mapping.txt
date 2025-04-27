@@ -1,0 +1,21 @@
+com.alienkrishn.moddilog.MainActivity -> com.alienkrishn.moddilog.MainActivity:
+    9:11:void onCreate(android.os.Bundle) -> onCreate
+    12:12:void <init>() -> <init>
+com.alienkrishn.moddilog.TestDialog -> com.alienkrishn.moddilog.a:
+    20:87:void showDialog(android.content.Context) -> a
+    91:102:void styleButton(android.widget.Button,java.lang.String) -> a
+com.alienkrishn.moddilog.TestDialog$100000000 -> com.alienkrishn.moddilog.b:
+    android.app.AlertDialog val$dialog -> a
+    void <init>(android.app.AlertDialog) -> <init>
+    47:51:void onShow(android.content.DialogInterface) -> onShow
+com.alienkrishn.moddilog.TestDialog$100000001 -> com.alienkrishn.moddilog.c:
+    void <init>() -> <init>
+    59:59:void onClick(android.content.DialogInterface,int) -> onClick
+com.alienkrishn.moddilog.TestDialog$100000002 -> com.alienkrishn.moddilog.d:
+    android.content.Context val$context -> a
+    void <init>(android.content.Context) -> <init>
+    66:68:void onClick(android.content.DialogInterface,int) -> onClick
+com.alienkrishn.moddilog.TestDialog$100000003 -> com.alienkrishn.moddilog.e:
+    android.content.Context val$context -> a
+    void <init>(android.content.Context) -> <init>
+    75:76:void onClick(android.content.DialogInterface,int) -> onClick
